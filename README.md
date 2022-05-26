@@ -1,11 +1,6 @@
-# Flutter Datetime Picker
+# Flutter Datetime Picker FORK
 
-[(Pub) flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)
-
-A flutter date time picker inspired by [flutter-cupertino-date-picker](https://github.com/wuzhendev/flutter-cupertino-date-picker)
-
-you can choose date / time / date&time in multiple languages:
-
+date / time / date&time in multiple languages:
 - Albanian(sq)
 - Arabic(ar)
 - Armenian(hy)
